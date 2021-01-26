@@ -1,0 +1,60 @@
+.person-invitation-message-wrapper{
+    left: 0px;
+    top: 70px;
+    background: linear-gradient(90.06deg, #181716 0%, #ED4E08 99.97%);
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ffffff;
+    justify-content: center;
+    padding: 20px;
+}
+
+.invite-button{
+    border-radius: 20px;
+    margin-left: 50px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.breadcrumb {
+    background-color: #ffffff;
+}
+
+.all-products-wrapper {
+  font-size: 20px; 
+  line-height: 23px;
+  margin: 10px 20px;
+}
+
+.all-products-title {
+    font-weight: 700;
+}
+
+.all-products-count {
+    font-weight: 300;
+    color: grey;
+}
+
+.filter-wrapper{
+    display: flex;
+    margin: 0 20px;
+    align-items : center;
+}
+
+.button-tag{
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #878787;
+    font-weight:500;
+    color: #878787;
+    border-radius: 42px;
+}
+
+.product-list-container {
+    margin: 0 auto;
+    height: 100vh;
+}
